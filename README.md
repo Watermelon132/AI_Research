@@ -47,28 +47,6 @@ To ensure smooth collaboration, contributors should follow these practices:
 ---
 
 Folder structure:
-├── Data_analysis
-│   ├── 20160104_ProjectA_additional_data_v1.csv
-│   ├── 20160104_ProjectA_addtional_data2_v1.csv
-│   ├── 20160104_ProjectA_data_v1.csv
-│   ├── 20160104_ProjectA_survey_questions.docx
-│   ├── Data_analysis_v1.py
-│   └── Graphed_data.png
-├── Figures
-│   ├── An overview of the topics covered in our usability study of Al programming assistants.png
-│   └── Main Fields in GAI Guidelines.png
-├── Interview_documents
-│   ├── 20160104_ProjectA_Interview_Eric_v1.docx
-│   ├── 20160104_ProjectA_Interview_final_3.docx
-│   └── 20160104_ProjectA_Interview_Jason_v1.docx.docx
-├── Proposal
-│   ├── Final_proposal.docx
-│   └── Proposal_draft_v1.docx
-├── README.md
-├── Research_papers
-│   ├── Academic_NonFiction.pdf
-│   ├── An_inquiry_into_GenAI.pdf
-│   └── Generative_AI tools.pdf
-└── Submitted_paper
-    ├── Final_paper_v1.docx
-    └── Final_paper_v2_submitted_version.pd
+
+<img width="909" height="534" alt="Screenshot 2025-09-18 at 1 17 28 pm" src="https://github.com/user-attachments/assets/ecbd9abb-cdc1-4673-a8b9-13f60b5aaa74" />
+
